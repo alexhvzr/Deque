@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alex/CLionProjects/Deque/deque.cpp.h
+
+/Users/alex/CLionProjects/Deque/deque.h
+iostream
+-
+deque.cpp.h
+/Users/alex/CLionProjects/Deque/deque.cpp.h
+
+/Users/alex/CLionProjects/Deque/main.cpp
+iostream
+-
+deque.h
+/Users/alex/CLionProjects/Deque/deque.h
+
